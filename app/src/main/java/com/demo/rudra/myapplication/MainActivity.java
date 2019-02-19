@@ -54,5 +54,6 @@ public class MainActivity extends AppCompatActivity {
         int i=1;
         i=i+1;
         i=i+1;
+        int j=2;
     }
 }
